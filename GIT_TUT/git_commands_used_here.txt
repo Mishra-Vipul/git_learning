@@ -1,0 +1,11 @@
+git add remote origin  https://github.com/Mishra-Vipul/git_learning
+git branch -M main
+git push -u origin main
+
+
+
+git init
+git status
+git add
+git commit -m ""
+git log
